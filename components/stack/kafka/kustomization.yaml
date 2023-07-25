@@ -6,3 +6,4 @@ commonLabels:
 resources:
 - namespace.yaml
 - kafka.yaml
+- kafka-topic.yaml
